@@ -1,10 +1,12 @@
 #dropdown-container {
   border: 2px black solid;
   background-color: pink;
+  width: fit-content;
 }
 
 button {
   background-color: purple;
+  border: dotted;
 }
 button:hover {
   background-color:pink;
@@ -12,4 +14,8 @@ button:hover {
 
 .hide {
   display:none;
+}
+
+div > button {
+  width: 100px;
 }
