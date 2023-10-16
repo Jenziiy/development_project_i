@@ -1,0 +1,15 @@
+{
+  "name": "dynamic-user-interfaces",
+  "version": "1.0.0",
+  "description": "Some dynamic user interfaces for practice purposes",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "UX",
+    "interactive"
+  ],
+  "author": "Jeanine",
+  "license": "ISC"
+}

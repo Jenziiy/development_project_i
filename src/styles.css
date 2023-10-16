@@ -1,0 +1,15 @@
+#dropdown-container {
+  border: 2px black solid;
+  background-color: pink;
+}
+
+button {
+  background-color: purple;
+}
+button:hover {
+  background-color:pink;
+}
+
+.hide {
+  display:none;
+}
